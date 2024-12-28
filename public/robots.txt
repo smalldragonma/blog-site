@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://smalldragonma.github.io/sitemap.xml

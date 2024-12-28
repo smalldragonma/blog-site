@@ -1,12 +1,12 @@
 baseURL = 'https://smalldragonma.github.io/'
-languageCode = 'en-us'
-# languageCode = 'zh-cn'
-title = 'My New Hugo Site'
+# languageCode = 'en-us'
+languageCode = 'zh-cn'
+title = 'smalldragonma'
 theme = 'ananke'
 
-resourceDir = "../resources"
+resourceDir = "./resources"
 
-defaultContentLanguage = "en"
+# defaultContentLanguage = "en"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
@@ -16,18 +16,18 @@ id = ''
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
-[languages.en]
-contentDir = "content/en"
-languageCode = 'en-US'
-weight = 1
-title = "Ananke"
-# languageDirection = 'rtl' for Right-To-Left languages
+# [languages.en]
+# contentDir = "content/en"
+# languageCode = 'en-US'
+# weight = 1
+# title = "Ananke"
+# # languageDirection = 'rtl' for Right-To-Left languages
 
-[languages.fr]
-contentDir = "content/fr"
-languageCode = 'fr-FR'
-weight = 2
-title = "Ananke Fr"
+# [languages.fr]
+# contentDir = "content/fr"
+# languageCode = 'fr-FR'
+# weight = 2
+# title = "Ananke Fr"
 
 [sitemap]
 changefreq = "monthly"
@@ -48,28 +48,28 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
 
-[params.ananke.social.share]
-networks = [
-  "email",
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
+# [params.ananke.social.share]
+# networks = [
+#   "email",
+#   "facebook",
+#   "bluesky",
+#   "linkedin"
+# ]
 
-[params.ananke.social.follow]
-networks = [
-  "facebook",
-  "bluesky",
-  "linkedin"
-]
+# [params.ananke.social.follow]
+# networks = [
+#   "facebook",
+#   "bluesky",
+#   "linkedin"
+# ]
 
-[params.ananke.social.facebook]
-username = "patrick.kollitsch"
-# profilelink = "https://www.facebook.com/patrick.kollitsch"
+# [params.ananke.social.facebook]
+# username = "patrick.kollitsch"
+# # profilelink = "https://www.facebook.com/patrick.kollitsch"
 
-[params.ananke.social.linkedin]
-username = "patrickkollitsch"
+# [params.ananke.social.linkedin]
+# username = "patrickkollitsch"
 
-[params.ananke.social.bluesky]
-username = "kollitsch.dev"
+# [params.ananke.social.bluesky]
+# username = "kollitsch.dev"
 
