@@ -10,6 +10,10 @@ resourceDir = "./resources"
 sectionPagesMenu = "main"
 enableRobotsTXT = true
 
+# 自动摘要长度
+hasCJKLanguage = true
+summaryLength = 30
+
 [services.googleAnalytics]
 id = 'G-GNX4Y2LFK0'
 
