@@ -17,6 +17,10 @@ summaryLength = 30
 [services.googleAnalytics]
 id = 'G-GNX4Y2LFK0'
 
+[services.disqus]
+shortname = 'smalldragonma'
+
+
 [pagination]
 pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 
@@ -51,6 +55,7 @@ featured_image_class = "cover bg-top"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
+commentoEnable = true
 
 # [params.ananke.social.share]
 # networks = [
