@@ -13,4 +13,6 @@ menu: main
 
 {{< form-contact action="<https://example.com>"  >}} -->
 
-{{< figure src="/images/wechat.jpg" width="50%" title="" >}}
+{{< figure src="/blog-site/images/wechat.jpg" width="50%" title="" >}}
+
+<!-- ![wechat](/images/wechat.jpg) -->
