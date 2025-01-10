@@ -62,14 +62,16 @@ commentoEnable = true
 #   "email",
 #   "facebook",
 #   "bluesky",
-#   "linkedin"
+#   "linkedin",
+#   "wechat"
 # ]
 
 # [params.ananke.social.follow]
 # networks = [
 #   "facebook",
 #   "bluesky",
-#   "linkedin"
+#   "linkedin",
+#   "wechat"
 # ]
 
 # [params.ananke.social.facebook]

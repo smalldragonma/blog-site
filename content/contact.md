@@ -13,4 +13,4 @@ menu: main
 
 {{< form-contact action="<https://example.com>"  >}} -->
 
-后续添加联系方式
+{{< figure src="/images/wechat.jpg" width="50%" title="" >}}
