@@ -2,10 +2,10 @@
 title: 联系我
 featured_image: '/images/background1.jpg'
 omit_header_text: true
-description: We'd love to hear from you
+description: I'd love to hear from you
 type: page
 menu: main
-
+hidden: true
 ---
 
 
